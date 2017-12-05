@@ -1,0 +1,2 @@
+2017-12-04 11:56:54 - PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/finolex/upload/system/library/db/mysqli.php on line 7
+2017-12-04 11:57:09 - PHP Warning:  mysqli::__construct(): (HY000/1049): Unknown database 'finolex' in /var/www/html/finolex/upload/system/library/db/mysqli.php on line 7
